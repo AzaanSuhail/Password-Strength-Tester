@@ -14,7 +14,7 @@ A simple **Password Strength Tester** built using  **HTML, CSS, and JavaScript**
 
 ---
 
-## 📸 [Demo]()
+## 📸 [Demo](https://password-strength-tester-five.vercel.app/)
 
 ![1742191438317](image/README/1742191438317.png)
 
@@ -46,11 +46,11 @@ A simple **Password Strength Tester** built using  **HTML, CSS, and JavaScript**
 
 1. Clone the repository:
    ```sh
-   git clone
+   git clone https://github.com/AzaanSuhail/Password-Strength-Tester.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd password-strength-tester
+   cd Password-Strength-Tester
    ```
 3. Open `index.html` in your browser.
 
