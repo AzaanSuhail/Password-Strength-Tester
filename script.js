@@ -96,3 +96,9 @@ function repeatCharactersWeakness(password) {
     }
   }
 }
+
+function clearText(input) {
+  if (input.value === "Enter a password") {
+    input.value = "";
+  }
+}
